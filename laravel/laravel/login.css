@@ -1,0 +1,23 @@
+body{
+	font: 100% Helvetica, sans-serif;
+	font-size: 150%;
+	}
+	
+	.container{
+		margin: 20px auto;
+		padding: 300px;
+		text-align: center;
+		width: 50%;
+
+	}
+	
+	.no-results{
+		text-align: center;
+		
+		}
+		
+	.vertical-align{
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+	}
